@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 10px 20px;
+}
+
+button{
+    width: 50px;
+    height: auto;
+    color: white;
+    border-radius: 5px;
+    border-color: gray;
+}
+
+h1{
+    margin: 10px 0px;
+}
+
+#description{
+    margin: 10px 0px 10px 0px;
+}
