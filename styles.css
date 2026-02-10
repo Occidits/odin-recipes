@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+ul{
+    padding: 15px 5px;
+    width: auto;
+    height: 50px;
+}
+
+li{
+    display: inline-block;
+    border: 1px;
+    border-style: dashed;
+    border-color: aliceblue;
+    border-radius: 5px;
+    background-color: aqua;
+}
+
+li:hover{
+    background-color: aliceblue;
+}
+
+a{
+    color: black;
+}
